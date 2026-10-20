@@ -4,7 +4,7 @@ from telebot import types
 # ==========================================
 # KONFIGURASI (UBAH BAGIAN INI)
 # ==========================================
-BOT_TOKEN   = "8809177437:AAH8yYsTL0n4_ClzBBv2C3kvKHfnOFCAUWA"
+BOT_TOKEN   = "8607483359:AAFHEsbMYgkVTrv-a_d_Sg358jktHfr96Gw"
 ADMIN_ID    = 8994767068  # Ganti dengan ID Telegram Anda (angka)
 HARGA       = 3000
 NAMA_TOKO   = "Unband Store"
